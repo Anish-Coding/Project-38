@@ -320,7 +320,7 @@ function bomb(){
                 bombs.velocityX = -(6 + 3*score/100);
                 break;
         case 3: bombs.y = 500;
-                bombs.velocitX = -(6 + 3*score/100);
+                bombs.velocityX = -(6 + 3*score/100);
                 break;
         default: break;
     }
